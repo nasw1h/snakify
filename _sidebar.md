@@ -16,3 +16,5 @@
 * [Lesson 11 : Dictionaries](lesson-11/main)
 
 * [Contact](contact)
+
+* [Give a Star 🌟](https://github.com/nasw1h/snakify)
